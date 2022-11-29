@@ -1,18 +1,11 @@
 <h2 align="center">
-  Hi, I'm Oliver
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Oliver, Fullstack developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h2>
-<h3 align="center">Fullstack developer</h3>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/oliver-catelan-robinson-624787154/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="40px"/></a>
-  <a href="mailto:oscr1998@outlook.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="40px"/></a>
-</a>
-</div>
 
 ---
 
-###  About Me :
+### :adult: About Me :
 I am a Full Stack Developer.
 
 - :mortar_board: I have a First Class Honours Masters degree in Mechanical Engineering and I am currently a Tech Trainee at futureproof. 
@@ -21,6 +14,14 @@ I am a Full Stack Developer.
 
 - :climbing: In my free time, I enjoy rock climbing as much as I can.
 
+---
+
+### :mailbox: Connect with me:
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/oliver-catelan-robinson-624787154/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="40px"/></a>
+  <a href="mailto:oscr1998@outlook.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="40px"/></a>
+</a>
+</div>
 
 ---
 
@@ -30,7 +31,7 @@ I am a Full Stack Developer.
 
 
 ---
-###  My GitHub Stats:
+###  :pencil2: My GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oscr1998&show_icons=true&theme=tokyonight)
 <br>
