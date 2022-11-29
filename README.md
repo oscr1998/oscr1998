@@ -33,10 +33,11 @@ I am a Full Stack Developer.
 ---
 ###  :pencil2: My GitHub Stats:
 
+<div style="display: flex; flex-direction: row;">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oscr1998&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscr1998&theme=tokyonight)
-
+</div>
 <!---
 oscr1998/oscr1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
