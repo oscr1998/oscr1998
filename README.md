@@ -6,7 +6,6 @@
 ---
 
 ### :adult: About Me :
-I am a Full Stack Developer.
 
 - :mortar_board: I have a First Class Honours Masters degree in Mechanical Engineering and I am currently a Tech Trainee at futureproof. 
 
