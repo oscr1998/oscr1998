@@ -15,7 +15,7 @@
 
 ---
 
-### :mailbox: Connect with me:
+### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Connect with me:
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/oliver-catelan-robinson-624787154/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" height="40px"/></a>
   <a href="mailto:oscr1998@outlook.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" height="40px"/></a>
@@ -31,7 +31,7 @@
 
 
 ---
-###  :pencil2: My GitHub Stats:
+###  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My GitHub Stats:
 <div align="center">
     <div style="display: flex; flex-direction: column; width:50%;">
     <img class="img" src="https://github-readme-stats.vercel.app/api?username=oscr1998&show_icons=true&theme=tokyonight" />
