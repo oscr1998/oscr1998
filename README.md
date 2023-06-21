@@ -11,7 +11,7 @@
 
 - :mortar_board: I have a First Class Honours Masters degree in Mechanical Engineering and I am currently a Tech Trainee at futureproof. 
 
-- :seedling: I am currently learning Python and plan to start learning C# soon!
+- :seedling: I am currently a Software Engineer at UCL
 
 - :climbing: In my free time, I enjoy rock climbing as much as I can.
 
