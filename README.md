@@ -9,9 +9,9 @@
 
 ### :adult: About Me :
 
-- :mortar_board: I have a First Class Honours Masters degree in Mechanical Engineering and I am currently a Tech Trainee at futureproof. 
+- :mortar_board: I have a First Class Honours Masters degree in Mechanical Engineering and I am currently a Software Engineer at UCL. 
 
-- :seedling: I am currently a Software Engineer at UCL
+<!---- :seedling: I am currently a Software Engineer at UCL --->
 
 - :climbing: In my free time, I enjoy rock climbing as much as I can.
 
