@@ -13,8 +13,6 @@
 
 <!---- :seedling: I am currently a Software Engineer at UCL --->
 
-- :climbing: In my free time, I enjoy rock climbing as much as I can.
-
 ---
 
 ### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40"> Connect with me:
