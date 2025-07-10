@@ -7,7 +7,7 @@
 
 ### About Me :
 
-- :mortar_board: I am currently a Software Engineer at UCL. I have a First Class Honours Masters degree in Mechanical Engineering and 
+- I am currently a Software Engineer at UCL. I have a First Class Honours Masters degree in Mechanical Engineering and 
 
 <!---- :seedling: I am currently a Software Engineer at UCL --->
 
