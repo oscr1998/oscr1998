@@ -1,15 +1,13 @@
 <h2 align="center">
-  Hi, I'm Oliver, Fullstack developer
+  Hi, I'm Oliver, Software Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h2>
-
-<h3 align="center"> https://oliver-catelan-robinson.netlify.app/ </h3>
 
 ---
 
 ### :adult: About Me :
 
-- :mortar_board: I have a First Class Honours Masters degree in Mechanical Engineering and I am currently a Software Engineer at UCL. 
+- :mortar_board: I am currently a Software Engineer at UCL. I have a First Class Honours Masters degree in Mechanical Engineering and 
 
 <!---- :seedling: I am currently a Software Engineer at UCL --->
 
